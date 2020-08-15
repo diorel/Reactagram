@@ -1,6 +1,4 @@
-# Clontagram
-
-Este es el repositorio para el código de [https://clontagram.com](https://clontagram.com).
+# Reactagram
 
 ## Descripción del proyecto
 
@@ -30,4 +28,3 @@ Una vez que el servidor se este ejecutando, podemos encender el cliente. Estos s
 - Enciende el frontend: `npm start`
 - Visita [http://localhost:3001](http://localhost:3001)
 
-Si todo sale bien, cuando visites el URL mencionado anteriormente vas a ver un mensaje diciendo: "¡Bienvenido al curso!"
